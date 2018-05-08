@@ -1,0 +1,2 @@
+### 组件服务msp配置		###
+mspServerUrl=http://172.19.82.230:8888/mspserver/remote/
