@@ -6,8 +6,9 @@
     "start": "node app.js"
   },
   "dependencies": {
+    "ejs": "^2.6.1",
     "express": "3.4.7",
-    "jade": "*",
-	"formidable":"*"
+    "formidable": "*",
+    "jade": "*"
   }
 }
